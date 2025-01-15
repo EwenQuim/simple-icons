@@ -5908,6 +5908,11 @@
 		"guidelines": "https://www.fubo.tv/press-inquiries"
 	},
 	{
+		"title": "Fuego",
+		"hex": "953A09",
+		"source": "https://github.com/go-fuego/fuego"
+	},
+	{
 		"title": "Fueler",
 		"hex": "09C9E3",
 		"source": "https://fueler.io"
